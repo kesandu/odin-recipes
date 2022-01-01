@@ -1,0 +1,29 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+.home-title,
+.page-title {
+    color: #fff;
+    background: #276527;
+}
+
+.home-title {
+    font-size: 44px;
+}
+
+.menu {
+    font-size: 18px;
+}
+
+.ingredients {
+    color: #276527;
+}
